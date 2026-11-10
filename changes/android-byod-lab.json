@@ -5,7 +5,7 @@
     "patch":  {
                   "@odata.type":  "#microsoft.graph.androidWorkProfileCompliancePolicy",
                   "osMinimumVersion":  "16.0",
-                  "minAndroidSecurityPatchLevel":  "2026-12-08",
-                  "description":  "APIM no-cert MI POC smoke success check 2026-11-09 20:50"
+                  "minAndroidSecurityPatchLevel":  "2026-12-09",
+                  "description":  "APIM no-cert hardened smoke 2026-11-09 21:18"
               }
 }
