@@ -5,7 +5,7 @@
   "patch": {
     "@odata.type": "#microsoft.graph.androidWorkProfileCompliancePolicy",
     "osMinimumVersion": "16.0",
-    "minAndroidSecurityPatchLevel": "2026-12-05",
-    "description": "APIM no-cert MI POC via intune-policy-changes-apim-nocert"
+    "minAndroidSecurityPatchLevel": "2026-12-06",
+    "description": "APIM no-cert MI POC smoke 2026-11-09"
   }
 }
